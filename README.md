@@ -20,7 +20,7 @@ To get started with Amy's Crawler, first clone the repository to your local mach
 
 ```bash
 git clone https://github.com/komyl/Amys_Crawler.git
-cd amys_crawler
+cd Amys_Crawler
 ```
 
 ## Install Requirements
