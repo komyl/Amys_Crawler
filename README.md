@@ -66,7 +66,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Authors
 
-This project was developed by **Komeyl Kalhorinia** and **Ameneh Zarebidoki**. You can reach us at [Komylfa@gmail.com](AmenehZarebidoki@gmail.com) for any inquiries or contributions.
+This project was developed by **Komeyl Kalhorinia** and **Ameneh Zarebidoki**. You can reach us at [Komylfa@gmail.com] or [AmenehZarebidoki@gmail.com] for any inquiries or contributions.
 
 ## Made with ❤️ by Komeyl Kalhorinia and AmenehZarebidoki
 
